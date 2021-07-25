@@ -1,0 +1,42 @@
+html {
+    /* set 1rem to 10px instead of native 16px to make it easier to calculate font-size values for the rest of the page (e.g. 1.6rem is 16px, 2.0rem is 20px, etc.) */
+    font-size: 62.5%;
+  }
+.header{
+    font-size: large;
+    margin-bottom: 3rem;
+    
+}
+timer{
+
+    position: relative;
+    left: 80%;
+}
+
+.flexbox{
+
+
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    
+    font-size: 1.5rem;
+    width: 50rem;
+    position: relative;
+    left:25%;
+}
+#start{
+    font-size: 2rem;
+    position: relative;
+    left: 50%;
+    padding: 1px;
+    border: 3px solid pink;
+    width: fit-content;
+    background-color: pink;
+ 
+    
+}
